@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>online-payments</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="online-payments" fill-rule="nonzero">
+            <path d="M40,31 C40,33.209 38.209,35 36,35 L4,35 C1.791,35 0,33.209 0,31 L0,11 C0,8.791 1.791,7 4,7 L36,7 C38.209,7 40,8.791 40,11 L40,31 Z" id="Shape" fill="#BDC3C7"></path>
+            <path d="M40,29 C40,31.209 38.209,33 36,33 L4,33 C1.791,33 0,31.209 0,29 L0,9 C0,6.791 1.791,5 4,5 L36,5 C38.209,5 40,6.791 40,9 L40,29 Z" id="Shape" fill="#268ABE"></path>
+            <rect id="Rectangle-path" fill="#EFEFF0" x="0" y="11" width="40" height="6"></rect>
+            <circle id="Oval" fill="#F3B50B" cx="26" cy="27" r="2"></circle>
+            <circle id="Oval" fill="#F3B50B" cx="34" cy="27" r="2"></circle>
+            <circle id="Oval" fill="#F3B50B" cx="18" cy="27" r="2"></circle>
+        </g>
+    </g>
+</svg>

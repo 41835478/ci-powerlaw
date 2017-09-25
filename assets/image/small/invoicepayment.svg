@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>payment__sm</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="12.9445043" width="18.7695313" height="7.76670259" rx="3"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#DEDEDE" offset="65.223104%"></stop>
+            <stop stop-color="#CDCCCC" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="4" y="3.23612608" width="6.38476562" height="9" rx="1"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#EBEBEB" offset="0%"></stop>
+            <stop stop-color="#DADADA" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="12.0028287" y="8.4139278" width="1.29445043" height="1.29445043"></rect>
+        <rect id="path-6" x="12.0028287" y="11.0028287" width="1.29445043" height="1.29445043"></rect>
+        <rect id="path-7" x="11" y="2" width="7" height="4.53057651" rx="1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="payment__sm">
+            <g id="Rectangle-15">
+                <use fill="#FFCB00" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#9B9B9B" stroke-width="1" x="1.5" y="13.4445043" width="17.7695313" height="6.76670259" rx="3"></rect>
+            </g>
+            <polygon id="Path-9" stroke="#9B9B9B" fill="url(#linearGradient-2)" points="1.64722522 14.88618 19.122306 14.88618 17.8609078 8.12744952 16.9698118 7.2799863 15.6398368 7.11947737 5.4999609 7.16619266 4.10647226 7.48661161 3.43386311 8.64071876"></polygon>
+            <g id="Rectangle-2">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <rect stroke="#9B9B9B" stroke-width="0.5" x="4.25" y="3.48612608" width="5.88476562" height="8.5" rx="1"></rect>
+            </g>
+            <path d="M12.9736665,18.7695312 C13.5399886,18.7695312 13.9445043,18.3650155 13.9445043,17.7986934 C13.9445043,17.2323714 13.5399886,16.8278556 12.9736665,16.8278556 C12.4073444,16.8278556 12.0028287,17.2323714 12.0028287,17.7986934 C12.0028287,18.3650155 12.4882476,18.7695312 12.9736665,18.7695312 Z" id="Path" fill="#764D0B"></path>
+            <path d="M8.25049864,7.76670259 L5.9275809,7.76670259 C5.66947892,7.76670259 5.41137695,8.09031519 5.41137695,8.4139278 C5.41137695,8.73754041 5.60495343,9.06115302 5.9275809,9.06115302 L8.25049864,9.06115302 C8.50860061,9.06115302 8.76670259,8.81844356 8.76670259,8.4139278 C8.76670259,8.00941204 8.50860061,7.76670259 8.25049864,7.76670259 Z" id="Path" fill="#9B9B9B"></path>
+            <rect id="Rectangle-3" fill="url(#linearGradient-4)" x="4" y="10" width="7" height="3"></rect>
+            <path d="M8.25049864,5.17780172 L5.9275809,5.17780172 C5.66947892,5.17780172 5.41137695,5.42051118 5.41137695,5.82502694 C5.41137695,6.2295427 5.60495343,6.47225216 5.9275809,6.47225216 L8.25049864,6.47225216 C8.50860061,6.47225216 8.76670259,6.2295427 8.76670259,5.82502694 C8.76670259,5.42051118 8.50860061,5.17780172 8.25049864,5.17780172 Z" id="Path" fill="#9B9B9B"></path>
+            <g id="Rectangle-21">
+                <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <rect stroke="#979797" stroke-width="1" x="12.5028287" y="8.9139278" width="1" height="1"></rect>
+            </g>
+            <g id="Rectangle-21">
+                <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-6"></use>
+                <rect stroke="#979797" stroke-width="1" x="12.5028287" y="11.5028287" width="1" height="1"></rect>
+            </g>
+            <rect id="Path" fill="#40BC53" x="14.5917295" y="11.0028287" width="1.29445043" height="1.29445043"></rect>
+            <rect id="Path" fill="#CA4245" x="14.5917295" y="8.4139278" width="1.29445043" height="1.29445043"></rect>
+            <g id="Rectangle">
+                <use fill="#7CBDDE" fill-rule="evenodd" xlink:href="#path-7"></use>
+                <rect stroke="#9B9B9B" stroke-width="0.5" x="11.25" y="2.25" width="6.5" height="4.03057651" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
